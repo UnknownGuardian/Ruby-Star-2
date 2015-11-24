@@ -1,0 +1,3 @@
+-Fix music that ends partway through the game
+-Get multiple coins sounds
+-Add Kevin MacLeod link in credits
